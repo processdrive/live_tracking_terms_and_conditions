@@ -1,0 +1,251 @@
+# Terms and Conditions
+
+**Last Updated: December 2, 2025**
+
+Please read these Terms and Conditions ("Terms") carefully before using the Live Attendance Tracking mobile application ("App") operated by ProcessDrive ("Company," "we," "us," or "our").
+
+By downloading, installing, or using this App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
+
+---
+
+## 1. Acceptance of Terms
+
+By accessing or using the Live Attendance Tracking App, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions, as well as our Privacy Policy. These Terms apply to all users of the App, including employees and contractors.
+
+---
+
+## 2. Description of Service
+
+The Live Attendance Tracking App is a workforce management tool that provides:
+
+- PIN-based employee authentication
+- Clock-in and clock-out functionality
+- GPS location tracking during work hours
+- Real-time location updates to the company's Odoo server
+- Attendance record management
+
+This App is intended for use by authorized employees of organizations that have implemented the Odoo ERP system with the attendance tracking module.
+
+---
+
+## 3. User Eligibility
+
+To use this App, you must:
+
+- Be an authorized employee or contractor of an organization using this App
+- Have received valid login credentials (PIN) from your employer
+- Be at least 18 years of age or the legal age of employment in your jurisdiction
+- Have a compatible Android device with GPS capabilities
+
+---
+
+## 4. User Account and Security
+
+- You are responsible for maintaining the confidentiality of your PIN
+- You must not share your login credentials with any other person
+- You are responsible for all activities that occur under your account
+- You must notify your employer immediately of any unauthorized use of your account
+- Your employer reserves the right to disable your access at any time
+
+---
+
+## 5. Location Data Collection and Use
+
+By using this App, you acknowledge and consent to the following:
+
+### 5.1 Location Tracking
+
+- The App collects your GPS location when you clock in
+- Location updates are sent to the company server approximately every minute while you are clocked in
+- Location tracking stops when you clock out
+- Background location tracking continues even when the App is minimized or closed, but only while you are clocked in
+
+### 5.2 Purpose of Location Data
+
+Location data is collected for:
+
+- Verifying attendance at designated work locations
+- Tracking field employee movements during work hours
+- Generating attendance and location reports for management
+- Ensuring employee safety and accountability
+
+### 5.3 Data Storage
+
+- Location data is transmitted to and stored on your organization's Odoo server
+- Your employer is the data controller and determines data retention policies
+- Location data is not shared with third parties by the App
+
+---
+
+## 6. User Responsibilities
+
+When using this App, you agree to:
+
+- Provide accurate attendance information
+- Not manipulate or falsify location data
+- Not use GPS spoofing or mock location applications
+- Keep your device's location services enabled during work hours
+- Ensure your device has adequate battery and internet connectivity
+- Clock in and out honestly and accurately
+- Comply with your employer's attendance policies
+
+---
+
+## 7. Prohibited Activities
+
+You are prohibited from:
+
+- Using the App for any unlawful purpose
+- Attempting to bypass or manipulate location tracking
+- Sharing your PIN with others or using another person's PIN
+- Reverse engineering, decompiling, or disassembling the App
+- Interfering with or disrupting the App's functionality
+- Using automated systems or software to interact with the App
+- Attempting to gain unauthorized access to company servers
+
+---
+
+## 8. Device Requirements and Permissions
+
+The App requires the following permissions to function properly:
+
+| Permission | Purpose |
+|------------|---------|
+| Location (All the time) | Required for GPS tracking during work hours |
+| Internet Access | Required for data synchronization with the server |
+| Background Processing | Required for continuous location updates |
+| Foreground Service | Required to maintain tracking when the App is minimized |
+
+You must grant these permissions for the App to function. Denying permissions may result in the App not working correctly.
+
+---
+
+## 9. Privacy
+
+Your privacy is important to us. Please review our [Privacy Policy](PRIVACY_POLICY.md), which explains how we collect, use, and protect your personal information. By using the App, you consent to the collection and use of information as described in the Privacy Policy.
+
+---
+
+## 10. Intellectual Property
+
+The App and its original content, features, and functionality are owned by the Company and are protected by international copyright, trademark, and other intellectual property laws. You may not copy, modify, distribute, or create derivative works based on the App.
+
+---
+
+## 11. Disclaimer of Warranties
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY OF LOCATION DATA
+- UNINTERRUPTED OR ERROR-FREE SERVICE
+
+We do not guarantee that:
+
+- The App will meet your specific requirements
+- The App will be available at all times
+- Location data will be 100% accurate
+- The App will be free of viruses or harmful components
+
+---
+
+## 12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY SHALL NOT BE LIABLE FOR:
+
+- Any indirect, incidental, special, consequential, or punitive damages
+- Loss of profits, data, or business opportunities
+- Damages arising from GPS inaccuracies
+- Damages resulting from unauthorized access to your account
+- Any damages exceeding the amount paid by you for the App (if any)
+
+---
+
+## 13. Indemnification
+
+You agree to indemnify, defend, and hold harmless the Company and its officers, directors, employees, and agents from any claims, damages, losses, or expenses (including legal fees) arising from:
+
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any rights of another party
+- Any false or inaccurate attendance data you submit
+
+---
+
+## 14. Employment Relationship
+
+This App is a tool provided by your employer for attendance tracking purposes. These Terms:
+
+- Do not create any employment relationship with the App developer
+- Do not modify your existing employment agreement
+- Are subject to your employer's policies and procedures
+- Should be read in conjunction with your employment contract
+
+---
+
+## 15. Termination
+
+Your right to use the App may be terminated:
+
+- By your employer at any time, for any reason
+- Upon termination of your employment
+- If you violate these Terms
+- If the App service is discontinued
+
+Upon termination, you must uninstall the App from your device.
+
+---
+
+## 16. Changes to Terms
+
+We reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting the updated Terms in the App or notifying you through other means. Your continued use of the App after changes constitutes acceptance of the modified Terms.
+
+---
+
+## 17. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of India, without regard to conflict of law principles.
+
+---
+
+## 18. Dispute Resolution
+
+Any disputes arising from these Terms or your use of the App shall be resolved through:
+
+1. Good faith negotiation between the parties
+2. Mediation, if negotiation fails
+3. Binding arbitration or litigation in the appropriate courts
+
+---
+
+## 19. Severability
+
+If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+
+---
+
+## 20. Entire Agreement
+
+These Terms, together with the Privacy Policy and any other agreements referenced herein, constitute the entire agreement between you and the Company regarding the use of the App.
+
+---
+
+## 21. Contact Information
+
+If you have any questions about these Terms and Conditions, please contact:
+
+**ProcessDrive**  
+**Email:** odoo@processdrive.com  
+**Website:** https://www.processdrive.com
+
+---
+
+## 22. Acknowledgment
+
+BY USING THE LIVE ATTENDANCE TRACKING APP, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND CONDITIONS, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM.
+
+---
+
+*© 2025 ProcessDrive. All rights reserved.*
